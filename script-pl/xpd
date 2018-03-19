@@ -1,0 +1,13 @@
+#! /usr/bin/perl
+use strict;
+use warnings;
+use lib 'lib';
+use XPD;
+XPD->run(); # Launch command
+__END__
+=pod
+=head1 PURPOSE
+
+Extended Perl document processor
+
+=cut
